@@ -7,7 +7,7 @@ class Anagram
   end 
   
   def match 
-    
+    word.split.collect do 
   
   
   
